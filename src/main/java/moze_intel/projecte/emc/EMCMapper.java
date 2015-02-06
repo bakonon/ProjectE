@@ -589,7 +589,7 @@ public final class EMCMapper
 		addMapping("ingotDarkSteel", 384);
 		addMapping("ingotSoularium", 2097);
 		/*Mekanism*/
-		addMapping("ingotOsmium", 2496);
+		addMapping("ingotOsmium", 128);
 			
 		//AE2
 		addMapping("crystalCertusQuartz", 64);
